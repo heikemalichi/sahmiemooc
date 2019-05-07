@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahpeeteidu.plynd.com/sitemap.xml
